@@ -51,3 +51,8 @@ Link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 
 ## Insight
+- Total sales experienced a slight decline of 2.82% from 2014 to 2015. However, sales then increased sharply by 29.4% in 2016 and continued to grow by 20.4% in 2017, indicating strong business growth and a recovery after the initial decline
+- The highest profits are concentrated in the American region, as indicated by the larger bubble sizes. Cities with the largest bubbles show significant profit contributions, highlighting these areas as key potential markets that should be prioritized in business strategy.
+- Products such as staples, staple envelope, and easy-staple paper record the highest sales volume, but their sales value remains relatively low. This indicates that these items fall into the high volume but low price category, contributing minimally to total revenue despite frequent purchases.
+- Products that receive large discounts do not have a significant impact on profit, indicating the need to evaluate the discount strategy.
+- The sales distribution by category shows different patterns across regions. Technology products are primarily concentrated in the Americas, while Furniture is more dominant in the Americas and Europe, although it rarely achieves high sales. The Office Supplies category has a wider distribution across the Americas, Europe, and Australia, and more frequently generates high sales. These patterns indicate that market potential varies by category, suggesting that sales strategies should be tailored based on both region and product type.
